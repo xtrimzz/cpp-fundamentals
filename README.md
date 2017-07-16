@@ -1,8 +1,8 @@
 # CPP FUNDAMENTALS
 
-Hello Guys!, This repo is meant to contain simply c++ codes that demonstrates basic concepts
+Hello Guys!, This repo is meant to contain simply codes that demonstrates basic concepts of c++ programming
 
-At present the following are present:
+Here is the content list:
 - Data types
 - Inheritance
 
